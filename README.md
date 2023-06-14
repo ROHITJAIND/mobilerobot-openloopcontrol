@@ -1,4 +1,4 @@
-# MobileRobot-Openloopcontrol
+# MobileRobot Openloopcontrol
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -9,20 +9,11 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
-Initiate the MobileRobot.  
-
-Step2:
-Connect your PC with the MobileRobot through Wi-Fi.  
-
-Step3:
-Open batter_level.py file and check the battery.  
-
-Step4:
-Open the other Python files and Program the movements of the robot using python.  
-
-Step5:
-Execute the python program and record the movements.  
+Step1: Initiate the MobileRobot.  
+Step2: Connect your PC with the MobileRobot through Wi-Fi.  
+Step3: Open batter_level.py file and check the battery.  
+Step4: Open the other Python files and Program the movements of the robot using python.  
+Step5: Execute the python program and record the movements.  
 
 ## Program
 ```python
@@ -88,8 +79,7 @@ Insert image here
 ## MobileRobot Movement Video:
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+[![YOUTUBE LINK](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=8EMpXibuaMI)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
